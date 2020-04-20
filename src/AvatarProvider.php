@@ -13,7 +13,7 @@ class AvatarProvider extends ServiceProvider
         // 发布配置文件
         $this->publishes([
             __DIR__.'/config/avatar.php' => config_path('avatar.php'),
-        ]);
+        ], 'config');
     }
     /**
      * Register the application services.
