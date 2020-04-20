@@ -9,5 +9,10 @@
             "email": "976724250@qq.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Cxp\\Avatar\\": "src"
+        }
+    },
     "require": {}
 }
