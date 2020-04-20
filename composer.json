@@ -1,0 +1,13 @@
+{
+    "name": "aaronwlh/avatar",
+    "description": "laravel avatar",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aaron",
+            "email": "976724250@qq.com"
+        }
+    ],
+    "require": {}
+}
